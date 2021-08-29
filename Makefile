@@ -1,7 +1,7 @@
 TARGET = AltStore
 ID = "com.ichitaso.altstore"
-VERSION = 1_4_5
-PKG_VER = 1.4.5
+VERSION = 1_4_6
+PKG_VER = 1.4.6
 
 .PHONY: all clean
 

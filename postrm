@@ -1,0 +1,5 @@
+#!/bin/bash
+
+uicache -a
+
+exit 0
